@@ -1,13 +1,13 @@
 # tijdmachine
 
-# 14 februari 2006
+## 14 februari 2006
 - begin project?
 
-# 2 oktober 2009
+## 2 oktober 2009
 - doorontwikkeling op de Vita Nova
 
 
-# 3 januari 2016 - Tijdmachine weer tot leven brengen:
+## 3 januari 2016 - Tijdmachine weer tot leven brengen:
 - externe monitor + keyboard aansluiten
 - linux start niet op:
 - error:no such device: xxxxx-xxxxx-xxxxx-xxxxx
