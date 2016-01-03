@@ -8,11 +8,8 @@
 
 
 ## 3 januari 2016 - Tijdmachine weer tot leven brengen:
-- externe monitor + keyboard aansluiten
-- linux start niet op:
-- error:no such device: xxxxx-xxxxx-xxxxx-xxxxx
-- Entering rescue mode....
-- grub rescue>
+- externe monitor + keyboard aansluiten. 
+- linux start niet op: `error:no such device: xxxxx-xxxxx-xxxxx-xxxxx Entering rescue mode.... grub rescue>`
 - USB stick waarvan ie zou moeten booten bekeken op m’n mac. Er staat wel een linux OS op.
 - naar BIOS
   - Boot > 1st Boot Device: SATA: 3M-SAMSUNG HD
